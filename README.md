@@ -1,7 +1,7 @@
 # Data-Analysis-Dashboard(Interactive Dashboard creation using MS Excel)
-##Project Objective:
-Analyze 2015 pizza sales data to uncover trends, top performers, and customer preferences.
-Support data-driven decisions by identifying peak times, best-selling pizzas, and high-impact categories.
+## Project Objective
+- Analyze 2015 pizza sales data to uncover trends, top performers, and customer preferences.
+- Support data-driven decisions by identifying peak times, best-selling pizzas, and high-impact categories.
 
 ## Dataset Used Link
 - <a href="https://github.com/jaiswalpriyanshu530/Data-Analysis-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>

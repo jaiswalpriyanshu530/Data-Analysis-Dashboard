@@ -25,7 +25,7 @@ Support data-driven decisions by identifying peak times, best-selling pizzas, an
 - Bottom 5 Pizzas by Total Orders
 
 - Dashboard Interaction <a href="https://github.com/jaiswalpriyanshu530/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-18%20231151.png"> View Dashboard</a>
-- Second Page Dashboard Interaction <a href="https://github.com/jaiswalpriyanshu530/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-18%20231221.png"> 2nd Page View Dashboard</a>
+- Second Page Dashboard Interaction <a href="https://github.com/jaiswalpriyanshu530/Data-Analysis-Dashboard/blob/main/Screenshot%202025-04-18%20231221.png">View Dashboard</a>
 
 ## Process
 - Data Collection: Gather pizza sales data from January to December 2015.

@@ -4,7 +4,7 @@ Analyze 2015 pizza sales data to uncover trends, top performers, and customer pr
 Support data-driven decisions by identifying peak times, best-selling pizzas, and high-impact categories.
 
 ## Dataset Used Link
-- < a href="https://github.com/jaiswalpriyanshu530/Data-Analysis-Dashboard/blob/main/pizza_sales_excel_file.xlsx"> Dataset</a>
+- <a href="https://github.com/jaiswalpriyanshu530/Data-Analysis-Dashboard/blob/main/pizza_sales_excel_file.xlsx">Dataset</a>
 
 ## Questions(KPIs)
 - Total Revenue
